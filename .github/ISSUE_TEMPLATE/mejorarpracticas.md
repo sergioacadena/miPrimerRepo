@@ -1,6 +1,6 @@
 ---
 
-name: "🐛 Bug Report"
+name: "Mejorar prácticas"
 
 about: "Reportar un error para ayudarnos a mejorar el proyecto."
 
